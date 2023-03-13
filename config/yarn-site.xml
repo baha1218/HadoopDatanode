@@ -9,7 +9,7 @@
     </property>
     <property>
       <name>yarn.resourcemanager.hostname</name>
-      <value>10.107.0.7</value>
+      <value>10.107.0.6</value>
     </property>
     <property>
       <name>yarn.nodemanager.resource.memory-mb</name>
