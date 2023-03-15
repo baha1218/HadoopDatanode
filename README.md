@@ -39,8 +39,9 @@ Vous devez maintenant déclararer l'ip de `VM1` qui porte votre namenode. Dans m
 
 Éditez les fichiers `core-site.xml` et `yarn-site.xml` grace aux commandes suivantes :
 ```bash
-nano /config/core-site.xml
-nano /config/yarn-site.xml
+nano config/core-site.xml
+nano config/yarn-site.xml
+nano config/spark/spark-defaults.conf
 ```
 
 Buildez l'image du datastore.
