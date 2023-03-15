@@ -50,7 +50,7 @@ Buildez l'image du datastore.
 docker build -t hadoop-spark .
 ```
 
-Lancez le conteneur.
+Lancez le conteneur. Utilisez `docker-compose` si vous n'etes pas sur red hat.
 
 ```bash
 docker compose -f "docker-compose.yml" up -d --build
