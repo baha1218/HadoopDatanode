@@ -7,6 +7,8 @@ Ce cluster est composé d'un namenode et de trois datanode sur la premiere machi
 
 Nous travaillerons donc seulement sur la `VM2` dans cette documentation.
 
+![synoptique](screenshot/synoptique.png)
+
 
 
 ## Prérequis
