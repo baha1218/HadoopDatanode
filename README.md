@@ -1,5 +1,5 @@
 
-# Ajout d'un node à un cluster Hadoop
+# Ajout d'un node à un cluster Hadoop (en cours)
 
 Ajout d'un datanode à un cluster Hadoop sur une machine différente.
 
